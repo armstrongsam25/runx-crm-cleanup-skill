@@ -1,4 +1,5 @@
 {
+  "runx_cli_version": "runx-cli 0.6.16",
   "summary": "Published the crm-cleanup runx skill to GitHub and the hosted runx registry, opened PR #248 against runxhq/runx, and ran a dogfood test from the hosted registry that sealed successfully with a verified receipt. The skill correctly detected duplicates, missing fields, and stale entries in the test contacts without modifying any data, confirming read-only cleanup behavior. Harness passes 2/2 on the hosted registry.",
   "observations": [
     "Skill published to GitHub at https://github.com/armstrongsam25/runx-crm-cleanup-skill (commit a62d996a67fbd7e9b3aa08f629f5eae957ca309b)",
