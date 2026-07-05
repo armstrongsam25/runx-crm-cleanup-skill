@@ -1,0 +1,4 @@
+.runx/
+evidence/
+*.log
+node_modules/
